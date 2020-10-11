@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YCP2Sravnenie chisel", "YCP2Sravnenie chisel.csproj", "{CDB83638-C2E9-45AD-87CE-A5F7036F72D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDB83638-C2E9-45AD-87CE-A5F7036F72D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDB83638-C2E9-45AD-87CE-A5F7036F72D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDB83638-C2E9-45AD-87CE-A5F7036F72D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDB83638-C2E9-45AD-87CE-A5F7036F72D7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6DC2B22B-3C64-46A8-AC0E-81EDBB2C477C}
+	EndGlobalSection
+EndGlobal
